@@ -11,8 +11,22 @@ Many abstract artworks may be spontaneous with capturing a picture moment or exp
 The RAG has the following options for randomized art generation:
 ```
 Squares
-```
+Circles 
+Strings
+Spirals
+Circles 2
+Overlap
 
+Gradient Shift
+Polygons
+Cubical
+Rubix
+Morse
+
+*Personal Favorites
+
+```
+**Personal Favorites
  
 Criteria for Success:
 
