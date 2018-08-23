@@ -23,9 +23,7 @@ Polygons
 Cubical
 Rubix
 Morse
-
 ```
-**Personal Favorites
  
 Criteria for Success:
 
