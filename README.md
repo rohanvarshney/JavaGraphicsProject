@@ -10,11 +10,17 @@ Many abstract artworks may be spontaneous with capturing a picture moment or exp
 
  
 Criteria for Success
+
 •	The client will enter a main screen where they can make multiple selections for what the image pattern will follow. (Accomplished)
+
 •	Within each selection, options will follow to diversify the randomness and various settings and properties of the final image. (Chosen to be Randomized instead)
+
 •	There will be default settings with initialized values and parameters that have limiting values within each option. (Implicitly defined)
+
 •	Selections may vary from: Album Artwork Inspirations (The Beatles’ 1, Gotye’s Mirrors, Arctic Monkeys’ AM, etc.), gradual gradient shift, geometric mess, etc. (Album Artwork Inspirations were left out)
+
 •	Properties may vary from: initial color hue, final color hue, rate of change, size of frame, shapes used, etc. (Accomplished)
+
 •	The final image will be produced using GUI and JFrame methods. (Accomplished)
 
 
