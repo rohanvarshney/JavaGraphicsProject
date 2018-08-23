@@ -8,7 +8,8 @@ While similar programs exist online to produce symmetrical patterns and kaleidos
 
 Many abstract artworks may be spontaneous with capturing a picture moment or expressing the thought through human hand, but a computer equivalent would be done by randomization of parameters and algorithms/requests from the user. With the assistance of my advisor, Mr. Balcar, my IB Computer Science teacher, I will design and program a *Random Artwork Generator* (RAG) so that users can randomly create computer-algorithm based artworks for aesthetic purposes, either entertaining or functional. The user will be able to control different types of settings that will dictate some aspects of the final art-piece while other factors will be randomized so that each individual art piece that is generated will be truly unique (or at least rare enough to generate again by repeating the same settings and conditions). This RAG will allow clients, primarily myself, to create random artworks without the tediousness of using digital art to make them or stress of brainstorming ideas for them.
 
-The RAG has the following options for randomized art generation:
+Each of these buttons below feature a theme that follows a specific pattern but may be randomized in colors, hues, placements, and other nuances that make the overall image none out of the potential millions that could happen within that button. One potential error that exists within this program is that clicking each button produces a window for the image and brings another Main Menu up, but the image can't be closed without closing all the other images that may be made and also the Main Menu. Having too many images up severely slows down the speed of the computer and the program must regularly \nbe closed after a few images are produced (~5-10). Resizing the image window or covering it with another window can affect results and change the image, and is the best alternative to clicking the same deisgn button multiple times.
+
 ```
 Squares
 Circles 
@@ -22,8 +23,6 @@ Polygons
 Cubical
 Rubix
 Morse
-
-*Personal Favorites
 
 ```
 **Personal Favorites
